@@ -84,6 +84,4 @@ If you need to reset or populate the database with test data:
    - 1,000 congestion records
    - 3,000 trust ledger entries
 
-## License
 
-This project is licensed under the MIT License.
